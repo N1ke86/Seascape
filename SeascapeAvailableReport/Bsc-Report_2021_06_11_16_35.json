@@ -1,0 +1,86 @@
+[
+  {
+    "Details": [
+      {
+        "Count": 10302,
+        "Quality": "Common"
+      },
+      {
+        "Count": 2805,
+        "Quality": "Special"
+      },
+      {
+        "Count": 502,
+        "Quality": "Rare"
+      },
+      {
+        "Count": 799,
+        "Quality": "Epic"
+      },
+      {
+        "Count": 3808,
+        "Quality": "Legendary"
+      }
+    ],
+    "Generation": 0
+  },
+  {
+    "Details": [
+      {
+        "Count": 1257,
+        "Quality": "Common"
+      },
+      {
+        "Count": 1952,
+        "Quality": "Special"
+      },
+      {
+        "Count": 398,
+        "Quality": "Rare"
+      },
+      {
+        "Count": 126,
+        "Quality": "Epic"
+      },
+      {
+        "Count": 85,
+        "Quality": "Legendary"
+      }
+    ],
+    "Generation": 1
+  },
+  {
+    "Details": [
+      {
+        "Count": 2236,
+        "Quality": "Common"
+      },
+      {
+        "Count": 10348,
+        "Quality": "Special"
+      },
+      {
+        "Count": 2080,
+        "Quality": "Rare"
+      },
+      {
+        "Count": 1085,
+        "Quality": "Epic"
+      },
+      {
+        "Count": 321,
+        "Quality": "Legendary"
+      }
+    ],
+    "Generation": 2
+  },
+  {
+    "Details": [
+      {
+        "Count": 1043,
+        "Quality": "Common"
+      }
+    ],
+    "Generation": 3
+  }
+]
